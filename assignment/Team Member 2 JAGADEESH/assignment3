@@ -27,4 +27,3 @@ while True:
     lights.off()
     buzzer.off()
     button.wait_for_release()
-Footer
