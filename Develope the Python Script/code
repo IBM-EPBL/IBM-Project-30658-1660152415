@@ -3,7 +3,7 @@ import time
 import random
 myConfig = {
 	"identity": {
-		"orgId": "dbzllk",
+		"orgId": "ee7irt",
 		"typeId": "GPS",
 		"deviceId":"12345"
 	},
